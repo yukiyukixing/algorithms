@@ -1,5 +1,7 @@
 # algorithms
 
+> 前言：怕什么算法无穷，进一寸有一寸的欢喜。
+
 手撕算法 😎😎😎😎😎
 
 [LeetCode](https://leetcode-cn.com/problemset/all/)
