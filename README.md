@@ -12,4 +12,4 @@
 
 - 1.[两数之和](https://github.com/yukiyukixing/algorithms/blob/main/2.%E6%95%B0%E7%BB%84/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
-- 2.[可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)
+- 2.[可获得的最大点数](https://github.com/yukiyukixing/algorithms/blob/main/2.%E6%95%B0%E7%BB%84/3.%E5%8F%AF%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%A7%E7%82%B9%E6%95%B0/%E5%8F%AF%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%A7%E7%82%B9%E6%95%B0.md)
