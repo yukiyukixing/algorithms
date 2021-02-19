@@ -5,6 +5,7 @@
 手撕算法 😎😎😎😎😎
 
 [LeetCode](https://leetcode-cn.com/problemset/all/)
+[概念](https://github.com/yukiyukixing/algorithms/blob/main/1.%E6%A6%82%E5%BF%B5/%E6%A6%82%E5%BF%B5.md)
 
 ## 1.数组
 
