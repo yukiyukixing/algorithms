@@ -9,7 +9,9 @@ var maxScore = function (cardPoints, k) {
         sum += cardPoints[i]
     }
     let minSum = sum;
-    for (let i = windowLength; i < n; ++i) {
+    // 使用i++时，i先将自身的值赋值给变量a，然后再自增1
+    // 使用++i时，i先将自身的值自增1,再将自增后的值赋值给变量a
+    for (let i = windowLength; i < n; i++) {
         sum += cardPoints[i] - cardPoints[i - windowLength];
         minSum = Math.min(minSum, sum);
     }
