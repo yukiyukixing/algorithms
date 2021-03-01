@@ -19,3 +19,7 @@
 ## 2.链表
 
 - 1.[删除链表的第N个节点 🏍🏍✔✔✔](https://github.com/yukiyukixing/algorithms/blob/main/3.%E9%93%BE%E8%A1%A8/1.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+
+## 3.动态规划
+
+- 1.[最小路径和 🏍🏍🏍✔✔✔](https://github.com/yukiyukixing/algorithms/blob/main/4.%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md)
