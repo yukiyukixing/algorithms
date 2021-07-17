@@ -28,4 +28,4 @@
 
 - 1.[全排列](https://github.com/yukiyukixing/algorithms/blob/main/6.%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/1.%E5%85%A8%E6%8E%92%E5%88%97/2.%E8%A7%A3%E6%9E%90/%E5%85%A8%E6%8E%92%E5%88%97.md)
 
-- 2.子集
+- 2.[子集](https://github.com/yukiyukixing/algorithms/blob/main/6.%E5%9B%9E%E6%BA%AF%E7%AE%97%E6%B3%95/3.%E5%AD%90%E9%9B%86/%E5%AD%90%E9%9B%86.md)
